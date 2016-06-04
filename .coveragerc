@@ -1,0 +1,3 @@
+[run]
+source = tri_calc
+omit = tri_calc/test*
